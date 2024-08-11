@@ -1,0 +1,26 @@
+*{
+    background: whitesmoke;
+}
+
+#título {
+    color: blue;
+    font-size: 50px;
+}
+
+#paragrafo{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#paragrafo2{
+    color: aqua;
+    font-size: 25px;
+}
+
+#botao{
+    background: green;
+}
+#botao2{
+    background: blueviolet;
+}
